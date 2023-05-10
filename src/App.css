@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.table,th,td{
+  border: 1px solid black;
+}
+
+.colore{
+  border-collapse: collapse;
+  background-color: violet;
+}
+.spazio{
+  margin-top: 20%;
+  width: 50%;
+  margin-bottom: 50px;
+}
+.bottone{
+  background-color: white;
+  color: black;
+}
